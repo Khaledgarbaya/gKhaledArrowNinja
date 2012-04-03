@@ -1,0 +1,24 @@
+/*
+	Some Basic styling 
+	Nothin fancy
+
+	@author Khaled Garbaya <http://khaledgarbaya.net>
+*/
+
+body{
+	text-align:center;
+	font-family:Helvetica, Arial, sans-serif;
+	color:#fff;
+
+	background:#444;
+	color:#FFF;
+}
+#canvasHolder{
+	width:980px;
+	height:580px;
+	background:#000;
+	margin: auto;
+}
+#canvas{
+	border:10px solid #fff;
+}

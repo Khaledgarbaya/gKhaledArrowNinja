@@ -1,0 +1,1 @@
+{"images": ["arrowSpriteSheet.png"], "animations": {"a_normal": [0, 1], "a_broken": [2, 4]}, "frames": {"regY": 71.25, "height": 130, "regX": 17.25, "width": 30, "count": 4}}
